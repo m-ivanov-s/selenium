@@ -1,0 +1,8 @@
+address: https://test-stand.gb.ru
+#driver_path: chromedriver.exe
+browser: chrome
+#browser: firefox
+sleep_time: 2
+wsdl: 'http://speller.yandex.net/services/spellservice?WSDL'
+url: 'https://test-stand.gb.ru/gateway/login'
+url1: 'https://test-stand.gb.ru/api/posts'

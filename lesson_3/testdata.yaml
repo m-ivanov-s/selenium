@@ -1,0 +1,5 @@
+address: https://test-stand.gb.ru
+#driver_path: chromedriver.exe
+browser: chrome
+#browser: firefox
+sleep_time: 2
